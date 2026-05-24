@@ -8,11 +8,9 @@ PanicLog Analyzer é um sistema web em React + Vite para auxiliar técnicos na a
 
 ## 🚀 Demonstração
 
-Após hospedar o projeto na Vercel, adicione aqui o link final:
 
-```txt
-https://seu-projeto.vercel.app
-```
+https://loubackdev-paniclog-analyzer.vercel.app/
+
 
 ## 📌 Sobre o projeto
 
